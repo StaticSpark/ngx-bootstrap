@@ -37,7 +37,7 @@ import { AlertModule } from 'ngx-bootstrap';
 ```json
       "styles": [
          "../node_modules/bootstrap/dist/css/bootstrap.min.css",
-        "styles.css",
+        "styles.css"
       ],
 ```
 
